@@ -1,0 +1,4 @@
+<ResourceDictionary>
+    <SolidColorBrush x:Key="Bg" Color="#222"/>
+    <SolidColorBrush x:Key="Fg" Color="White"/>
+</ResourceDictionary>

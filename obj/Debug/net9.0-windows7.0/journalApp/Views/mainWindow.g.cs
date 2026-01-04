@@ -51,7 +51,7 @@ namespace JournalApp.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/My Journal;component/journalapp/views/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/My Journal;V1.0.0.0;component/journalapp/views/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\journalApp\Views\mainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
